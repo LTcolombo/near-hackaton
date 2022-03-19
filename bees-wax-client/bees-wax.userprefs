@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/view/behaviours/game/Consume.cs">
+    <Files>
+      <File FileName="Assets/Scripts/view/CheckSpawnQueue.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/view/behaviours/game/CheckTargetReached.cs" Line="16" Column="24" />
+      <File FileName="Assets/Scripts/model/LayedEggsModel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/model/TargetModel.cs" Line="10" Column="15" />
+      <File FileName="Assets/Scripts/view/RefreshTargetIn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/view/ReplacePrefab.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/model/SpawnQueueModel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/lib/injection/InjectionAttributes.cs" Line="19" Column="3" />
+      <File FileName="Assets/Scripts/view/SetupInjections.cs" Line="10" Column="9" />
+      <File FileName="Assets/Scripts/lib/injection/Injector.cs" Line="81" Column="1" />
+      <File FileName="Assets/Scripts/view/behaviours/game/CheckTargetTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/view/behaviours/game/Consume.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Assembly-CSharp-Editor.csproj</String>
+  </DisabledProjects>
+</Properties>

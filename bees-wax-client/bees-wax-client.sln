@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{30d6827d-b103-e40f-9bf6-c4b76e9d6f4b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NakamaEditor", "NakamaEditor.csproj", "{9a078dff-2dcd-bc7c-094a-86204c3df765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NakamaRuntime", "NakamaRuntime.csproj", "{834781a2-f31e-78ee-3a26-4e7e81e053fd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{7f0a20bf-cbd7-d87d-849f-4e28a35768d1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30d6827d-b103-e40f-9bf6-c4b76e9d6f4b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30d6827d-b103-e40f-9bf6-c4b76e9d6f4b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9a078dff-2dcd-bc7c-094a-86204c3df765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9a078dff-2dcd-bc7c-094a-86204c3df765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834781a2-f31e-78ee-3a26-4e7e81e053fd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834781a2-f31e-78ee-3a26-4e7e81e053fd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7f0a20bf-cbd7-d87d-849f-4e28a35768d1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7f0a20bf-cbd7-d87d-849f-4e28a35768d1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
